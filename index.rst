@@ -67,7 +67,7 @@ The IT requirements are the following:
 
 The cables used for this project were OM3/OM4 with 24 filaments MTP/MPO connectors with type A polarity. It is important to mention that both the OM3 and OM4 cables are fully
 compatible with each other. The specifications for this setup were provided by the National Accelerator Laboratory Group (SLAC). To know more about this please visit the 
-following sources:  RM-2010 / LSE-65 / IT-1384.
+following sources:
 
 - https://jira.lsstcorp.org/browse/RM-2010
 - https://docushare.lsst.org/docushare/dsweb/Get/LSE-65
@@ -93,7 +93,7 @@ Additional Technical Specifications:
 
 .. figure:: /_static/2.PNG
    :name: 1
-   :width: 700 px
+   :width: 900 px
    
 MTP / MPO connectors and adapters
 ---------------------------------
@@ -105,7 +105,7 @@ Each cable contains 24 filaments with 1 MTP/MPO connector at each end.
 
 .. figure:: /_static/3.jpg
    :name: 1
-   :width: 700 px
+   :width: 500 px
    
    Image: MTP/MPO Connectors
    
@@ -270,6 +270,7 @@ Finally, the route from position F is connected by means of a flexible tube and 
    :name: 1
    :width: 700 px
 
+
 .. figure:: /_static/19.jpeg
    :name: 1
    :width: 700 px
@@ -282,7 +283,7 @@ Finally, the route from position F is connected by means of a flexible tube and 
    
    .. figure:: /_static/20.png
    :name: 1
-   :width: 700 px
+   :width: 900 px
    
    
    Deployment plan
@@ -312,8 +313,8 @@ The cables purchased to connect the section explained above are:
 Considering all the corresponding permits to begin the installation works. We will proceed to take them to the summit and install them in the electronic equipment that needs it.
 This work must be coordinated with the staff of the SLAC group. We do not yet have requests to install these cables.
 
-Acronym Description
-===================
+Acronyms
+========
    
    
 .. Do not include the document title (it's automatically added from metadata.yaml).
