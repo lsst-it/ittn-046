@@ -84,8 +84,8 @@ Due to the geographical location of the telescope and weather conditions, it was
 between floors in data centers.
 
 .. figure:: /_static/1
-    :name: 1
-    :target: 700px
+   :name: 1
+   :width: 700 px
 
 Image: Prototype of the Armored Cable
 
