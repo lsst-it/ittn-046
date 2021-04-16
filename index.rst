@@ -266,14 +266,14 @@ Finally, the route from position F is connected by means of a flexible tube and 
    :name: 1
    :width: 700 px
 
-.. figure:: /_static/18.jpeg
+    .. figure:: /_static/18.jpeg
    :name: 1
    :width: 700 px
 
    
  Pictures of MTP / MPO Fiber Cabinet Interior.
  
-  General view of the fiber optic cable connect locations.
+ General view of the fiber optic cable connect locations.
   --------------------------------------------------------
    
 .. figure:: /_static/20.png
@@ -281,15 +281,15 @@ Finally, the route from position F is connected by means of a flexible tube and 
    :width: 700 px   
    
 
+
    
+Deployment plan
+===============
    
-   Deployment plan
-   ===============
+The trunk cables for the DAQ / CCS connections are already installed in their final locations. These locations correspond to rack B7 located in the second-floor computer room
+to the MTP / MPO fiber optic cabinet on the outside pillar of the cleanroom in the third-floor staging area.
    
-   The trunk cables for the DAQ / CCS connections are already installed in their final locations. These locations correspond to rack B7 located in the second-floor computer room
-   to the MTP / MPO fiber optic cabinet on the outside pillar of the cleanroom in the third-floor staging area.
-   
-   Trunk cable connector genders correspond as follows:
+Trunk cable connector genders correspond as follows:
 
 - Computer room: Female connector
 
