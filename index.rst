@@ -236,7 +236,7 @@ MTP cable routing analysis installed
    :width: 700 px
 
 - The cable originates and exists out of the top of rack B7 at position A of the computer room. The cable then runs through the cable tray in the same room to position B of the 
-computer room exiting at the end of the room.
+  computer room exiting at the end of the room.
 
  .. figure:: /_static/13.PNG
    :name: 1
@@ -271,7 +271,7 @@ Finally, the route from position F is connected by means of a flexible tube and 
    :width: 700 px
 
 
-.. figure:: /_static/19.jpeg
+.. figure:: /_static/190.jpeg
    :name: 1
    :width: 700 px
    
@@ -283,7 +283,7 @@ Finally, the route from position F is connected by means of a flexible tube and 
    
    .. figure:: /_static/20.png
    :name: 1
-   :width: 900 px
+   :width: 700 px
    
    
    Deployment plan
