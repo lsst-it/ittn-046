@@ -83,7 +83,7 @@ Cable Jacket
 Due to the geographical location of the telescope and weather conditions, it was decided to install The OFNP cables that have the highest fire rating, suited for vertical runs 
 between floors in data centers.
 
-.. figure:: /_static/1
+.. figure:: /_static/ 1
    :name: 1
    :width: 700 px
 
