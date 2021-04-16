@@ -262,11 +262,11 @@ MTP cable routing analysis installed
    
 Finally, the route from position F is connected by means of a flexible tube and reaches the cabinet that contains the MTP / MPO connectors inside.   
 
-.. figure:: /_static/17.jpeg
+.. figure:: /_static/17.jpg
    :name: 1
    :width: 700 px
-
-    .. figure:: /_static/18.jpeg
+   
+   .. figure:: /_static/18.jpg
    :name: 1
    :width: 700 px
 
