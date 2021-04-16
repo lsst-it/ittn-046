@@ -270,20 +270,17 @@ Finally, the route from position F is connected by means of a flexible tube and 
    :name: 1
    :width: 700 px
 
-
-.. figure:: /_static/190.jpeg
-   :name: 1
-   :width: 700 px
    
  Pictures of MTP / MPO Fiber Cabinet Interior.
  
   General view of the fiber optic cable connect locations.
   --------------------------------------------------------
    
-   
-   .. figure:: /_static/20.png
+.. figure:: /_static/20.png
    :name: 1
-   :width: 700 px
+   :width: 700 px   
+   
+
    
    
    Deployment plan
