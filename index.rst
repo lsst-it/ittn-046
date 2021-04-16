@@ -268,7 +268,7 @@ MTP cable routing analysis installed
    
    
    
-    .. figure:: /_static/18.jpeg
+     .. figure:: /_static/18.jpeg
    :name: 3
    :width: 700 px
  
