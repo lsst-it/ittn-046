@@ -310,6 +310,8 @@ This work must be coordinated with the staff of the SLAC group. We do not yet ha
 
 Acronyms
 ========
+
+.. include:: 21.rst
    
    
 .. Do not include the document title (it's automatically added from metadata.yaml).
