@@ -125,7 +125,7 @@ The MTP / MPO Female and Male Connectors
 
 The MTP/MPO cables always connect to another MTP/MPO cable, each connector has a connection type which is either Female or Male.
 
-.. figure:: /_static/5.jpg
+.. figure:: /_static/5.jpeg
    :name: 1
    :width: 700 px
    
@@ -196,18 +196,126 @@ company representative is contacted with our requirements and the order is recei
 later to Chile which is received by the IT Team at the AURA Facility all in approximately 2 months.
 
 
+Installation and maintenance time of the MTP / MPO cable.
+=========================================================
+
+To carry out the installation of the cables, we first need to request authorization within a week in advance to the managers and safety personnel in charge, this whole process
+is documented on a ticket in Jira. For each day of the work, IT has to fill out a daily activity registration form to document the activities that will be carried out for that
+particular day of work. This form is then delivered to Rubin Safety personnel who are in charge of authorizing the activity and supervising the work done for any safety hazard.
+
+Each area of work has to be demarcated with cones along with an informative table showing the person's name in charge of the work and the areas that will be closed throughout 
+the work period. IT also has to notify Rubin personnel by radio on channel 3 that work will take place in the area authorized.
+
+The installation of this type of cable can usually take up to 1 day with a workgroup composed of 2 members but maintenance can take up to 2 workdays with the same amount of 
+people, this is because the IT Team has to specifically check and withdraw each cable, taking into account the following considerations.
+
+- First, we have to locate the cable we are going to be doing maintenance on or replacing.
+- Remove the cable from where it's currently installed and located.
+- Prepare and install the new cable in replacement for the one that was removed.
+
+Note: The times provided above are all estimates taking into consideration that the cables are installed in the computer room in rack B7 and extend to the staging area of the 
+third floor.
+
+MTP cable routing analysis installed
+------------------------------------
+
+ .. figure:: /_static/10.jpg
+   :name: 1
+   :width: 700 px
 
 
+- The DAQ equipment is located in rack B7
 
 
+ .. figure:: /_static/11.jpg
+   :name: 1
+   :width: 700 px
+   
+    .. figure:: /_static/12.jpg
+   :name: 1
+   :width: 700 px
 
+- The cable originates and exists out of the top of rack B7 at position A of the computer room. The cable then runs through the cable tray in the same room to position B of the 
+computer room exiting at the end of the room.
 
+ .. figure:: /_static/13.PNG
+   :name: 1
+   :width: 700 px
+   
+- The cable then appears on the cable tray of the third floor and runs along the pillar to point C extending to the outside of the cleanroom.   
 
+.. figure:: /_static/14.jpg
+   :name: 1
+   :width: 700 px
+   
+- The cable runs along with the cable tray on the third floor of the main building continuing to point D. 
 
+.. figure:: /_static/15.jpg
+   :name: 1
+   :width: 700 px
+   
+- Then the cable tray route D is connected to a cable tray specially manufactured to lower the fibers in the pillar in position F.   
 
+.. figure:: /_static/16.jpg
+   :name: 1
+   :width: 700 px
+   
+Finally, the route from position F is connected by means of a flexible tube and reaches the cabinet that contains the MTP / MPO connectors inside.   
 
+.. figure:: /_static/17.jpeg
+   :name: 1
+   :width: 700 px
 
+.. figure:: /_static/18.jpeg
+   :name: 1
+   :width: 700 px
 
+.. figure:: /_static/19.jpeg
+   :name: 1
+   :width: 700 px
+   
+ Pictures of MTP / MPO Fiber Cabinet Interior.
+ 
+  General view of the fiber optic cable connect locations.
+  --------------------------------------------------------
+   
+   
+   .. figure:: /_static/20.png
+   :name: 1
+   :width: 700 px
+   
+   
+   Deployment plan
+   ===============
+   
+   The trunk cables for the DAQ / CCS connections are already installed in their final locations. These locations correspond to rack B7 located in the second-floor computer room
+   to the MTP / MPO fiber optic cabinet on the outside pillar of the cleanroom in the third-floor staging area.
+   
+   Trunk cable connector genders correspond as follows:
+
+- Computer room: Female connector
+
+- MTP / MPO enclosure: Female connector
+
+Deployment conclusions and considerations
+------------------------------------------
+
+There were 2 different purchases of MTP / MPO cables connecting from the MTP / MPO cabinet to the comcam and to the camera. The cables in their entirety are still traveling to
+Chile.
+
+The cables purchased to connect the section explained above are:
+
+16x MTP / MPO male-female cables.
+
+16x MTP / MPO male-male cables.
+
+Considering all the corresponding permits to begin the installation works. We will proceed to take them to the summit and install them in the electronic equipment that needs it.
+This work must be coordinated with the staff of the SLAC group. We do not yet have requests to install these cables.
+
+Acronym Description
+===================
+   
+   
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
 .. .. rubric:: References
