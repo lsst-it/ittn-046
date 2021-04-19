@@ -147,7 +147,9 @@ For documentation purposes, we will turn our focus on Polarity Type-A cables.
    :name: 1
    :width: 700 px
    
-.. figure:: /_static/7.jpg
+   
+   
+.. figure:: /_static/7.png
    :name: 1
    :width: 700 px
   
