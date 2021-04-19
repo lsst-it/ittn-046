@@ -146,13 +146,13 @@ For documentation purposes, we will turn our focus on Polarity Type-A cables.
 .. figure:: /_static/6.jpg
    :name: 1
    :width: 700 px
+   
+.. figure:: /_static/7.jpg
+   :name: 1
+   :width: 700 px
   
 
 Image: Type A Straight Through Cable
-
-   .. figure:: /_static/7.jpg
-   :name: 1
-   :width: 700 px
 
 
 Adapter Keys
