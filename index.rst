@@ -146,12 +146,13 @@ For documentation purposes, we will turn our focus on Polarity Type-A cables.
 .. figure:: /_static/6.jpg
    :name: 1
    :width: 700 px
-   
+  
+
+Image: Type A Straight Through Cable
+
    .. figure:: /_static/7.jpg
    :name: 1
    :width: 700 px
-
-Image: Type A Straight Through Cable
 
 
 Adapter Keys
@@ -231,7 +232,7 @@ MTP cable routing analysis installed
    :name: 1
    :width: 700 px
    
-    .. figure:: /_static/12.jpg
+ .. figure:: /_static/12.jpg
    :name: 1
    :width: 700 px
 
