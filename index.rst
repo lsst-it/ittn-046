@@ -109,8 +109,8 @@ Each cable contains 24 filaments with 1 MTP/MPO connector at each end.
    
    Image: MTP/MPO Connectors
    
-   MTP/MPO Adapters
-   ^^^^^^^^^^^^^^^^
+MTP/MPO Adapters
+^^^^^^^^^^^^^^^^^^
 
 Each connection between cables has to use a key-up and key-down adapter in order to work and function properly.
 
